@@ -1,0 +1,13 @@
+{
+"manifest_version":2,
+"name":"Martha's extension",
+"description":"extension created for assignment4",
+"version":"1.0",
+"browser_action":{
+  "default_icon":"icon.jpg",
+  "default_popup":"index.html"
+},
+"permissions":[
+  "activeTab"
+]
+}
